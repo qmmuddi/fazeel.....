@@ -1,0 +1,65 @@
+*{
+    background-color: whitesmoke;
+}
+.container{
+    display: grid;
+    background-color: aqua;
+    grid-template-rows: auto auto;
+    height: 200px;
+    width: 200px;
+    border: 1px solid red;
+}
+/* .box-1{
+    height: 540px;
+    width: 420px;
+    border: 1px solid black;
+    justify-content: center;
+    /* align-items: center; */
+}
+.box-1 > img{
+    height: 470px;
+    width: 420px;
+}
+h1{
+    color: blue;;
+}
+.span{
+    height:70px;
+    width: 420px;
+    background-color: black;
+    color: black;
+} */
+.item{
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
